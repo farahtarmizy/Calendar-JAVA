@@ -1,7 +1,7 @@
 # Calendar-JAVA
 how to make a calendar using two inputs, year and the first day of the year.
 
-int Y = 2016;    // year
+        int Y = 2016;    // year
         int startDayOfMonth = 5;
         int spaces = startSayOfMonth;
 
